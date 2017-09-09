@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_genres"
+    style="@style/layout"
+    tools:context="com.example.android.musicalstructureapp.Genres">
+    <LinearLayout
+        style="@style/layout">
+
+        <TextView
+            style="@style/description"
+            android:text="@string/description_genres"/>
+
+        <TextView
+            android:id="@+id/genre_a"
+            style="@style/category_1"
+            android:background="@color/genres"
+            android:text="@string/genre_a"/>
+
+        <TextView
+            android:id="@+id/genre_b"
+            style="@style/category_1"
+            android:background="@color/genres"
+            android:text="@string/genre_b"/>
+
+        <Button
+            android:id="@+id/genre_add"
+            style="@style/category_1"
+            android:background="@color/genres"
+            android:text="@string/genre_add"/>
+
+        <ImageView
+            android:src="@drawable/image"
+            style="@style/image"/>
+
+    </LinearLayout>
+</ScrollView>

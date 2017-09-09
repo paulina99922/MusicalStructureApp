@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_songs"
+    style="@style/layout"
+    tools:context="com.example.android.musicalstructureapp.Songs">
+
+    <LinearLayout
+        style="@style/layout">
+
+        <TextView
+            style="@style/description"
+            android:text="@string/description_songs"/>
+
+        <TextView
+            android:id="@+id/song_a"
+            style="@style/category_1"
+            android:background="@color/songs"
+            android:text="@string/song_a"/>
+
+        <TextView
+            android:id="@+id/song_b"
+            style="@style/category_1"
+            android:background="@color/songs"
+            android:text="@string/song_b"/>
+
+        <Button
+            android:id="@+id/song_c"
+            style="@style/category_1"
+            android:background="@color/songs"
+            android:text="@string/song_add"/>
+
+        <ImageView
+            android:src="@drawable/image"
+            style="@style/image"/>
+
+    </LinearLayout>
+</ScrollView>

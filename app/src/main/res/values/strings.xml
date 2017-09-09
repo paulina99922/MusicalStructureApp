@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MusicalStructureApp</string>
+    <string name="app_description">Welcome to the Musical Structure App.
+        You can easily find the song you are looking for :). All the songs are played in the Media Player. </string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="genres">Genres</string>
+    <string name="playlists">Playlists</string>
+    <string name="songs">Songs</string>
+
+    <string name="description_albums">Here is a list of all the albums in alphabetical order.
+        You can add another album by clicking the button below. Once you click on a given song, it will be played in the Media Player. </string>
+    <string name="album_a">Album A</string>
+    <string name="album_b">Album B</string>
+    <string name="album_add">Add new album</string>
+
+    <string name="description_artists">Here is a list of all the artists in alphabetical order.
+    You can add another artist by clicking the button below. Once you click on a given song, it will be played in the Media Player. </string>
+    <string name="artist_a">Artist A</string>
+    <string name="artist_b">Artist B</string>
+    <string name="artist_add">Add new artist</string>
+
+    <string name="description_genres">Here is a list of all the albums in alphabetical order.
+    You can add another genre  by clicking the button below. Once you click on a given song, it will be played in the Media Player. </string>
+    <string name="genre_a">Genre A</string>
+    <string name="genre_b">Genre B</string>
+    <string name="genre_add">Add new genre</string>
+
+    <string name="description_playlists">Here is a list of all the playlists in alphabetical order.
+    You can add another playlist by clicking the button below. Once you click on a given song, it will be played in the Media Player. </string>
+    <string name="playlist_a">Playlist A</string>
+    <string name="playlist_b">Playlist B</string>
+    <string name="playlist_add">Add new playlist</string>
+
+    <string name="description_songs">Here is a list of all the songs in alphabetical order.
+    You can add another song by clicking the button below. Once you click on a given song, it will be played in the Media Player. </string>
+    <string name="song_a">Song A</string>
+    <string name="song_b">Song B</string>
+    <string name="song_add">Add new song</string>
+
+
+</resources>
